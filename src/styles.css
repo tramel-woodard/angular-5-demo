@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* expand global container from 1140px to 1200px */
+@media (min-width: 992px) {
+    .container {
+        max-width: 1200px;
+    }
+}

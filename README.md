@@ -2,9 +2,9 @@
 # Angular 5 Demo
 Demo of Angular 5 for Educational Purposes.
 
-This repository is an Angular 5.2.6 implementation of Angular Tour of Heroes.
+This repository is an Angular 5 implementation of Angular Tour of Heroes.
 
-## 5.2.6 Issues that Need Resolving
+## Angular 5 Issues that Needed Resolving
 
 #### Generating a New Component
 After generating a new project using @angular/cli, generating a new component:

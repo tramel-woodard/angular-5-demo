@@ -19,6 +19,7 @@ import { HeroSearchComponent } from './hero-search/hero-search.component';
 
 /* imported bootstrap modules */
 import { TopNavigationComponent } from './top-navigation/top-navigation.component';
+import { PostsComponent } from './posts/posts.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { TopNavigationComponent } from './top-navigation/top-navigation.componen
     MessagesComponent,
     DashboardComponent,
     HeroSearchComponent,
-    TopNavigationComponent
+    TopNavigationComponent,
+    PostsComponent
   ],
   imports: [
     BrowserModule,
